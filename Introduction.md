@@ -95,7 +95,8 @@ You have completed the installation, Follow these steps to set-up your Glasp acc
 Choose your favorite topics on the Glasp homepage, You can choose up to 10 topics.
 
 ![glasp-topics](topics.png)
- **step 2**
+    
+**step 2**
 
 Edit your profile. Input your Name, Bio, Choose a Username and add the links to your social media accounts.
 
