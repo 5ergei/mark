@@ -81,6 +81,7 @@ After you have completed the sign-up process, you will be redirected to the Chro
  click the add to Chrome button, and wait for your download to be completed
 
 ![glasp-chrome intstallation](glasp-chrome.png)
+    
  **Step 2**
 
 click the pin icon to add the Glasp extension to your google chrome toolbar
@@ -96,7 +97,7 @@ Choose your favorite topics on the Glasp homepage, You can choose up to 10 topic
 
 ![glasp-topics](topics.png)
     
-**step 2**
+**Step 2**
 
 Edit your profile. Input your Name, Bio, Choose a Username and add the links to your social media accounts.
 
@@ -163,7 +164,7 @@ III. Select the text you want to highlight and choose a color for the highlighte
 
 I. Click the AI summary icon, and you will be redirected to the OpenAi page.
 
-![glaspai](AIsumary.png)
+![glaspai](Aisumary.png)
 
 ii. Your summary has been generated successfully. the summary can also be highlighted. 
 
