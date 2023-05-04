@@ -42,8 +42,7 @@ Glasp is a great tool to use, not just for research and learning purposes, it is
 Glasp updates its features to keep improving constantly, 
 Here are some of Its latest features:
 * __Highlighting:__  Glasp lets you highlight key texts and phrases in articles and videos.
-    
-![texthighligght](Highlightingtext.png)
+       ![texthighligght](Highlightingtext.png)
 
 * __Summarization:__ Glasp generates a summary of youtube videos using AI, The summarized text is displayed in a separate panel, with the video playing next to it. Your highlighted texts can also be summarized.
     
@@ -53,8 +52,7 @@ Here are some of Its latest features:
     
 * __Customization:__ You can choose to get either a brief overview of a video or a deep and more detailed summary. This can be done by modifying the level of detail in the summarization settings 
 * __Tagging:__ Glasp lets you tag your highlights, tags makes it easier for other like-minds to find articles relating to a topic.
-    
-![tagging-thoughts](tagging.png)
+       ![tagging-thoughts](tagging.png)
     
 * __Interaction:__ Glasp lets you connect with others by sharing your highlighted thoughts on your Glasp page, via emails, and other social messaging platforms.
 ![sharing-thoughts-with-glasp](sharing.png)
